@@ -32,3 +32,14 @@ With this device, which is designed to be printable on ALMOST every 3D Printer w
 1 x Protective Shield Prusa [Link to Prusa](http://prusa3d.com/downloads/others/COVID19_SHIELD_FOIL.pdf#_ga=2.25357117.1067840300.1585659503-1842800044.1584540391)
 
 1 x Bottem Reinforcment [Link to Prusa](https://media.prusaprinters.org/media/prints/25857/stls/260466_f1e0f39c-88fe-4b35-a909-0348aa53e412/bottom_reinforcement.stl#_ga=2.222400283.1067840300.1585659503-1842800044.1584540391)
+
+**Print & Slice settings**
+
+Filament Printers => Material: PET(G), PLA, NO SUPPORTS, Layer height 0.2mm, at least 3 perimeter walls, Top/Bottom thickness 1.2mm
+
+Resin Printers => Material: compatible with sterilization methods, Layer height 0.2mm, solid print
+
+Powder Printers => Maerial: PA12 or similar
+
+**NO MEDICAL DEVICE**
+This device has *NO* medical approvals and we are not responsible on correct use of it and the effectivness of device. It has been developped as an immediate response to actual COVID-19 pandemic situation and is thought as an additional accessory to existing qualified protective personal equipment (PPE). If you are unsure about desinfection processes etc. check with your responsible person in charge to avoid any cross contamination inside of hospitals.
