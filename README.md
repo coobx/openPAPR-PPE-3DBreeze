@@ -5,6 +5,13 @@ The goal is to protect all persons actually working with COVID-19 patients. Face
 
 With this device, which is designed to be printable on ALMOST every 3D Printer with the corresponding material. Together with only 4 supplier parts (radial blowwer 12V, Bosch battery pack, vacuum cleaner filter and 6.3mm connector pins) it is possible to build a device, which can potentially safe life.
 
+**Short technical facts**
+
+Operating time battery:  12 - 15 hours
+Charging time battery: 35 - 45mins
+Filtered airflow: 100 l/min
+Filter class: HEPA13 => intersting link about filtration classes and why it works with HEPA [LINK HAMILTON MEDICAL](https://www.hamilton-medical.com/de/E-Learning-and-Education/Knowledge-Base/Knowledge-Base-Detail~2020-03-23~Efficiency-of-HEPA-filters~d5358f88-753e-4644-91c6-5c7b862e941f~.html?_cldee=a2Vsc25lckBoYW1pbHRvbi1tZWRpY2FsLmNvbQ%3d%3d&recipientid=contact-226f89375798e71180fe005056926240-1f6fbc40110d44ee946ad546fdb8d7f9&esid=4e331f67-3873-ea11-8126-005056926240#DataTables_Table_0=od3)
+
 **BOM Filter unit**
 
 1 x 3DBreeze_Housing.stl
